@@ -64,13 +64,3 @@ python -m pa_agent.main
 本项目采用 [GNU Affero General Public License v3.0 (AGPL-3.0)](LICENSE) 发布。
 
 ---
-
-## 打赏与支持
-
-如果你觉得这个程序对你有帮助的话，可以打赏激励作者继续优化程序，感谢你的支持和鼓励！
-
-（作者会优先解决打赏人的问题，因为人太多了！回复不过来！）
-
-<p align="center">
-  <img src="赞助码.jpeg" alt="打赏二维码" width="420" />
-</p>
